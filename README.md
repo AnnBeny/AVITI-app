@@ -39,6 +39,8 @@ Aplikace se otevře v prohlížeči na adrese:
 ---
 
 Enjoy!
+
 ![Author](https://img.shields.io/badge/Annn-author?style=social&logoColor=pink&logoSize=auto&labelColor=%23ff0055&color=%23ff0055)
+
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 
