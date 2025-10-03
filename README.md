@@ -40,7 +40,7 @@ Aplikace se otevře v prohlížeči na adrese:
 
 Enjoy!
 
-![Author](https://img.shields.io/badge/Annn-author?style=social&logoColor=pink&logoSize=auto&labelColor=%23ff0055&color=%23ff0055)
+[![Author](https://img.shields.io/badge/Annn-author?style=social&logoColor=pink&logoSize=auto&labelColor=%23ff0055&color=%23ff0055)](https://github.com/AnnBeny)
 
-![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
