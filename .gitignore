@@ -26,5 +26,5 @@ head.ods
 Thumbs.db
 
 # OT
-.editorconfig
-sekvence*
+.vscode/
+sekvence indexu pro aviti_final.xlsx
