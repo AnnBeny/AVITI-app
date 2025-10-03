@@ -36,6 +36,8 @@ Aplikace se otevře v prohlížeči na adrese:
 - Zobrazení informací o jednotlivých knihovnách z `helps/info.txt`.
 
 
+![Ukázka aplikace](img/screenshot.png)
+
 ---
 
 Enjoy!
