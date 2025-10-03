@@ -3,18 +3,18 @@
 Streamlit aplikace pro přípravu **samplesheetů** a práci s indexovými knihovnami AVITI.
 Umožňuje:
 
-- interaktivní výběr indexů z knihoven,
-- přiřazení názvů vzorků a export tabulek do CSV/XLSX,
-- kontrolu duplicity indexů (i7 + i5) na stejné lajně,
-- generování hlavičky (samplesheet) s možností úprav,
-- zobrazení informací o knihovnách z `info.txt`.
+- interaktivní výběr indexů z knihoven a filtrování
+- přiřazení názvů vzorků a export tabulek do csv/xlsx
+- generování samplesheetu s hlavičkou
+- kontrolu duplicity indexů (i7 + i5) na stejné lane
+- zobrazení informací o knihovnách
 
 ---
 
-# Instalace balíčků
+## Instalace balíčků
 pip install -r requirements.txt
 
-# Spuštění aplikace
+## Spuštění aplikace
 Aplikace se otevře v prohlížeči na adrese:
 [http://localhost:8501](http://localhost:8501)
 
