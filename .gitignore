@@ -13,7 +13,7 @@ __pycache__/
 
 # backup and notes
 app/_*
-app/notes/
+app/notes
 
 # xlsx, ods
 samples.xlsx
