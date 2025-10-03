@@ -1,0 +1,37 @@
+        rowCallback = JS(
+          "function(row, data, index) {",
+          "  $(row).on('click', function(e) {",
+          "    if (!$(e.target).is('input[type=\"checkbox\"]')) {",
+          "      var checkbox = $(this).find('input[type=\"checkbox\"]');",
+          "      checkbox.prop('checked', !checkbox.prop('checked'));",
+          "    }",
+          "  });",
+          "}"
+        )
+
+
+# Update the samplesheet table with editable cells
+  output$samplesheet_table <- DT::renderDataTable({
+    req(rv$data)
+    DT::datatable(
+      rv$data,
+      escape = FALSE,
+      options = list(
+        pageLength = 30,
+        lengthMenu = c(10, 20, 30, 50, 100, 200, 300, 500),
+        autoWidth = TRUE,
+        heading = TRUE
+      ),
+      editable = list(
+        target = 'cell',
+        #disable = list(columns = c(2:ncol(rv$data)))
+        disable = list(columns = 2:ncol(rv$data))
+      ),
+      rownames = FALSE,
+      #selection = 'multiple',
+      selection = 'none',
+      style = 'jqueryui',
+      class = 'dt-center',
+      filter = 'top'
+    )
+  })

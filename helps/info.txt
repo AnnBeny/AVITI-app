@@ -1,0 +1,43 @@
+##### **Devyser**
+- Název dle SeqUIa: `Index kit: zzz Nextera 7ordered_deprecated`
+- Typ: *Dual*
+- Délka: **8**
+- Použití: knihovny CFTR Devyser
+
+##### **KAPA UDI 1-96**
+- Použití: germinální panely a exomy
+
+##### **Illumina UDI set C**
+- Název dle SeqUIa: `Index kit: Illumina Unique Dual Indexes (UDI) Set C`
+- Typ: *Dual*
+- Délka: **8**
+
+##### **Archer-A**
+- Název dle SeqUIa: `Index kit: ArcherDx SetA`
+- Typ: *Dual*
+- Délka: **8**
+
+##### **Archer-B**
+- Název dle SeqUIa: `Index kit: ArcherDx SetA`
+- Typ: *Dual*
+- Délka: **8**
+- Použití: pro Archer (A), FP
+
+##### **Archer-C**
+- Název dle SeqUIa: `Index kit: ArcherDx SetA`
+- Typ: *Dual*
+- Délka: **8**
+- Použití: pro Archer (A), FP
+
+##### **Takara UDI**
+- Název dle SeqUIa: `Takara UDI 1-96`
+- Typ: *Dual*
+- Délka: **8**
+- Použití: pro SC-RNAseq
+
+##### **Tapestri**
+- Název dle SeqUIa: `Index kit: Tapestri SingleCell`
+- Typ: *Dual*
+- Délka: **8**
+- Použití: pro SC-DNA
+

@@ -1,0 +1,26 @@
+# Python virtual env
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# R temporary files
+.Rhistory
+.RData
+.Rproj.user/
+.Rapp.history
+
+# backup and notes
+app/_*
+app/notes/
+
+# xlsx, ods
+samples.xlsx
+head.ods
+
+# temporary files
+*.swp
+*.tmp
+.DS_Store
+Thumbs.db
