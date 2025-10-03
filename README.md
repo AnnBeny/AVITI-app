@@ -23,7 +23,7 @@ Aplikace se otevře v prohlížeči na adrese:
 ### 1. Výběr indexů
 - Vyber knihovnu z nabídky (`libraries/*.xlsx`).
 - Filtruj podle `INDEX`, `i7 name`, `i5 name`.
-- Přidej názvy vzorků (lze i kopírovat Ctrl+V po více názvech)
+- Přidej názvy vzorků (lze i kopírovat Ctrl+V po více názvech).
 - Exportuj jako `samples.csv` (volitelné).
 
 ### 2. Manifest (samplesheet)
@@ -34,3 +34,11 @@ Aplikace se otevře v prohlížeči na adrese:
 
 ### 3. Knihovny
 - Zobrazení informací o jednotlivých knihovnách z `helps/info.txt`.
+
+
+---
+
+Enjoy!
+![Author](https://img.shields.io/badge/Annn-author?style=social&logoColor=pink&logoSize=auto&labelColor=%23ff0055&color=%23ff0055)
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+
