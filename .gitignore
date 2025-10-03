@@ -24,3 +24,7 @@ head.ods
 *.tmp
 .DS_Store
 Thumbs.db
+
+# OT
+.editorconfig
+sekvence*
