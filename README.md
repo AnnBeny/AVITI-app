@@ -42,4 +42,10 @@ Aplikace se otevře v prohlížeči na adrese:
 
 Enjoy!
 
-[![Author](https://img.shields.io/badge/Annn-author?style=for-the-badge&logoColor=pink&logoSize=auto&labelColor=%23ff0055&color=%23ff0055)](https://github.com/AnnBeny) 
+<br>
+🍬 2025 · [@AnnBeny](https://github.com/AnnBeny)
+<br>
+
+![app](https://img.shields.io/badge/app-Streamlit-blue?style=for-the-badge)
+![domain](https://img.shields.io/badge/domain-bioinformatics-6A5ACD?style=for-the-badge)
+![python](https://img.shields.io/badge/python-3.10+-blue?style=for-the-badge)
